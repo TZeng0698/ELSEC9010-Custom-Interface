@@ -1,0 +1,10 @@
+acceleration=50
+maxSpeed=200
+generalTimeOut=90
+withdrawalTimeOut=180
+homingTimeOut=120
+pingInterval=20
+homeAfterSteps=100000
+withdrawalPosition=(2829, 4800)
+guiScale=2.0
+masterColor=#e7e7e7
